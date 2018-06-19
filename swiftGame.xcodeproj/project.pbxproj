@@ -61,7 +61,6 @@
 		15442D7A20D92C9A00DB7488 /* frame-27.gif in Resources */ = {isa = PBXBuildFile; fileRef = 15442D2A20D92C9A00DB7488 /* frame-27.gif */; };
 		15442D7B20D92C9A00DB7488 /* frame-26.gif in Resources */ = {isa = PBXBuildFile; fileRef = 15442D2B20D92C9A00DB7488 /* frame-26.gif */; };
 		F93BAC8120D928FF00EEDB76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F93BAC8020D928FF00EEDB76 /* AppDelegate.swift */; };
-		F93BAC8320D928FF00EEDB76 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8220D928FF00EEDB76 /* GameScene.sks */; };
 		F93BAC8520D928FF00EEDB76 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8420D928FF00EEDB76 /* Actions.sks */; };
 		F93BAC8C20D928FF00EEDB76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8A20D928FF00EEDB76 /* Main.storyboard */; };
 		F93BAC8E20D9290000EEDB76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8D20D9290000EEDB76 /* Assets.xcassets */; };
@@ -128,7 +127,6 @@
 		15442D2B20D92C9A00DB7488 /* frame-26.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame-26.gif"; sourceTree = "<group>"; };
 		F93BAC7D20D928FF00EEDB76 /* swiftGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F93BAC8020D928FF00EEDB76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F93BAC8220D928FF00EEDB76 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		F93BAC8420D928FF00EEDB76 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		F93BAC8B20D928FF00EEDB76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F93BAC8D20D9290000EEDB76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -259,7 +257,6 @@
 				15442CF420D92C9A00DB7488 /* cagney_ko */,
 				15442CF920D92C9A00DB7488 /* cagney_second */,
 				F93BAC8020D928FF00EEDB76 /* AppDelegate.swift */,
-				F93BAC8220D928FF00EEDB76 /* GameScene.sks */,
 				F93BAC8420D928FF00EEDB76 /* Actions.sks */,
 				F93BAC8A20D928FF00EEDB76 /* Main.storyboard */,
 				F93BAC8D20D9290000EEDB76 /* Assets.xcassets */,
@@ -351,7 +348,6 @@
 				F93BAC8C20D928FF00EEDB76 /* Main.storyboard in Resources */,
 				15442D5520D92C9A00DB7488 /* frame-10.gif in Resources */,
 				15442D5420D92C9A00DB7488 /* frame-04.gif in Resources */,
-				F93BAC8320D928FF00EEDB76 /* GameScene.sks in Resources */,
 				F982A16020D942E90009D86A /* bomb_0.png in Resources */,
 				F93BAC9920D92A9E00EEDB76 /* music.mp3 in Resources */,
 				15442D4B20D92C9A00DB7488 /* frame-03.gif in Resources */,
