@@ -15,6 +15,7 @@
 		F93BAC8C20D928FF00EEDB76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8A20D928FF00EEDB76 /* Main.storyboard */; };
 		F93BAC8E20D9290000EEDB76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8D20D9290000EEDB76 /* Assets.xcassets */; };
 		F93BAC9120D9290000EEDB76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC8F20D9290000EEDB76 /* LaunchScreen.storyboard */; };
+		F93BAC9920D92A9E00EEDB76 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F93BAC9820D92A9E00EEDB76 /* music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F93BAC8D20D9290000EEDB76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F93BAC9020D9290000EEDB76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F93BAC9220D9290000EEDB76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F93BAC9820D92A9E00EEDB76 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				F93BAC8D20D9290000EEDB76 /* Assets.xcassets */,
 				F93BAC8F20D9290000EEDB76 /* LaunchScreen.storyboard */,
 				F93BAC9220D9290000EEDB76 /* Info.plist */,
+				F93BAC9820D92A9E00EEDB76 /* music.mp3 */,
 			);
 			path = swiftGame;
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			files = (
 				F93BAC8C20D928FF00EEDB76 /* Main.storyboard in Resources */,
 				F93BAC8320D928FF00EEDB76 /* GameScene.sks in Resources */,
+				F93BAC9920D92A9E00EEDB76 /* music.mp3 in Resources */,
 				F93BAC8E20D9290000EEDB76 /* Assets.xcassets in Resources */,
 				F93BAC9120D9290000EEDB76 /* LaunchScreen.storyboard in Resources */,
 				F93BAC8520D928FF00EEDB76 /* Actions.sks in Resources */,
